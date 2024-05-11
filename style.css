@@ -1,0 +1,94 @@
+
+h2{color: yellow;
+
+    background:linear-gradient( to right,rgb(70, 10, 235),rgb(22, 224, 15))
+}
+#p1{
+    background-color: aqua;
+    border-style: outset;
+    border-color: gold;
+}
+h1{color: aquamarine;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    font-weight: bold; 
+    font-size: 36px;
+    text-align: center;
+    text-decoration:  dotted underline;
+    background:linear-gradient(to left,rgb(26, 25, 23),rgb(202, 41, 62))
+}
+body{background-image: url(img/background.jpg);
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-position: center;
+    margin: 10px;
+    
+}
+table{
+    text-align: center;
+    border-style:solid;
+    background-color: rgb(228, 252, 14);
+    align-content: center;
+
+    padding: 10px;
+}
+h3{
+    background: linear-gradient(to left, rgb(202, 18, 110),rgb(224, 127, 15));
+}
+ul{color: aqua;
+    background: linear-gradient(to left,yellow,grey,blue);
+}
+#p4{align:center
+    color: rgb(248, 248, 4);
+    background:linear-gradient(to left,rgb(0, 255, 179),rgb(255, 0, 0))
+}
+hr{color: rgb(125, 226, 43);}
+
+footer{
+    background-color: blue;
+    color: black;
+}
+#p2{
+    background-color: aqua;
+    color: brown;
+}
+border{
+    border-width: 5px;
+    border-color:gold;
+    border-style: solid;
+}
+#p5{ color: aqua;
+    background-color: rgb(136, 241, 15);
+    
+}
+button{
+    color: blueviolet;
+    background-color: aqua;
+    
+}
+html{
+    border-style: solid;
+    border-color: gold;
+    border-radius: 10px;
+    
+}
+h4{
+    font-size: 24px;
+    color:red;
+    text-align: center;
+    background:linear-gradient(to left,gold,grey);}
+    
+    div{
+        
+        background-color: rgb(243, 65, 10);
+        font-size: 24px;
+       padding: 5px;
+    
+       font-family: Verdana, Geneva, Tahoma, sans-serif;
+    }
+    #x{color: blue;
+        background-color: antiquewhite;
+    }
+    #v{text-align: center;
+        background-color: red;
+        color: white;
+    }
