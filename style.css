@@ -16,11 +16,6 @@ h1{color: aquamarine;
     text-decoration:  dotted underline;
     background:linear-gradient(to left,rgb(26, 25, 23),rgb(202, 41, 62))
 }
-body{background-image: url(img/background.jpg);
-    background-repeat: no-repeat;
-    background-attachment: fixed;
-    background-position: center;
-    margin: 10px;
     
 }
 table{
@@ -28,6 +23,7 @@ table{
     border-style:solid;
     background-color: rgb(228, 252, 14);
     align-content: center;
+    
 
     padding: 10px;
 }
@@ -92,3 +88,4 @@ h4{
         background-color: red;
         color: white;
     }
+
